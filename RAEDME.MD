@@ -1,3 +1,3 @@
 # Git Demo
 
-Git övning
+Git övning av grupp 2
